@@ -1,10 +1,9 @@
-Dataset: Distribuição de Doses de Vacinas por Município
+# Dataset: Distribuição de Doses de Vacinas por Município
 
 O dataset contém informações sobre a distribuição de doses de vacinas contra a COVID-19 em diversos municípios. Os dados fornecem insights sobre o número de doses distribuídas em cada município, permitindo uma análise da distribuição geográfica da vacinação.
 
-O conjunto de dados inclui as seguintes colunas:
-
-municipio: Nome do município onde as doses foram distribuídas.
+#O conjunto de dados inclui as seguintes colunas:
+*municipio: Nome do município onde as doses foram distribuídas.
 uf: Unidade Federativa a qual o município pertence.
 codigo_uf: Código da Unidade Federativa.
 codigo_ibge: Código do município de acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística).
