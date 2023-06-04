@@ -12,6 +12,9 @@
 ## Professor
 Prof. Dr. Edson Melo de Souza
 
+
+
+
 # Dataset: Distribuição de Doses de Vacinas por Município
 
 O dataset contém informações sobre a distribuição de doses de vacinas contra a COVID-19 em diversos municípios. Os dados fornecem insights sobre o número de doses distribuídas em cada município, permitindo uma análise da distribuição geográfica da vacinação.
