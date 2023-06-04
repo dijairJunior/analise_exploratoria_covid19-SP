@@ -29,6 +29,6 @@ O dataset contém informações sobre a distribuição de doses de vacinas contr
 * segunda_dose: Número de doses da segunda dose (ou dose única) da vacina distribuídas.
 * doses: Total de doses (primeira dose + segunda dose) da vacina distribuídas.
 
-### Esses dados são valiosos para acompanhar o progresso da vacinação em cada município, identificar disparidades na distribuição de doses e entender o impacto da campanha de vacinação contra a COVID-19.
+Esses dados são valiosos para acompanhar o progresso da vacinação em cada município, identificar disparidades na distribuição de doses e entender o impacto da campanha de vacinação contra a COVID-19.
 
-### É importante ressaltar que o descritivo fornecido é uma visão geral do conjunto de dados e suas colunas. Recomenda-se explorar e analisar mais profundamente o dataset para obter informações mais detalhadas e insights específicos sobre a distribuição de doses de vacinas em cada município.
+É importante ressaltar que o descritivo fornecido é uma visão geral do conjunto de dados e suas colunas. Recomenda-se explorar e analisar mais profundamente o dataset para obter informações mais detalhadas e insights específicos sobre a distribuição de doses de vacinas em cada município.
