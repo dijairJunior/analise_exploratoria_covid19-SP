@@ -9,6 +9,8 @@
 * Dijair Roberto de Camargo Junior
 * Leonardo 
 
+## Professor
+Prof. Dr. Edson Melo de Souza
 
 # Dataset: Distribuição de Doses de Vacinas por Município
 
