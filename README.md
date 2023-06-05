@@ -7,7 +7,7 @@
 ## Integrantes
 * Alexandre 
 * Dijair Roberto de Camargo Junior
-* Leonardo 
+* Leonardo Araújo de Oliveira
 
 ## Professor
 Prof. Dr. Edson Melo de Souza
