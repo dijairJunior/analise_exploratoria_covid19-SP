@@ -19,6 +19,11 @@ Prof. Dr. Edson Melo de Souza
 
 O dataset contém informações sobre a distribuição de doses de vacinas contra a COVID-19 em diversos municípios. Os dados fornecem insights sobre o número de doses distribuídas em cada município, permitindo uma análise da distribuição geográfica da vacinação.
 
+## Material onde foi baixando os datasets:
+https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/
+https://www.seade.gov.br/coronavirus/
+https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/vigilancia_em_saude/doencas_e_agravos/coronavirus/index.php?p=313773
+
 ## O conjunto de dados inclui as seguintes colunas:
 * municipio: Nome do município onde as doses foram distribuídas.
 * uf: Unidade Federativa a qual o município pertence.
