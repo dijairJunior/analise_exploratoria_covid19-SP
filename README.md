@@ -5,7 +5,7 @@
 
 
 ## Integrantes
-* Alexandre 
+* Alexandre José da Silva
 * Dijair Roberto de Camargo Junior
 * Leonardo Araújo de Oliveira
 
